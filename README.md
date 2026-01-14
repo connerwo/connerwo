@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there, I'm Conner 👋 
+
+I am currently attending Wright State University to get a degree in IT and Cybersecurity.
+
+## Coursework
+
+I
 
 <!--
 **connerwo/connerwo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
