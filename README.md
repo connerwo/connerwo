@@ -4,10 +4,10 @@ I am currently attending Wright State University to get a degree in IT and Cyber
 
 ## Coursework
 
-# Word Game -- Java
+### Word Game -- Java
 A word game similar to the New York Times "Spelling Bee" where the player guesses words from a scrambled list of letters, recieiving points based on how many words they create.
 
-# Other Project
+### Other Project
 Project description
 
 <!--
