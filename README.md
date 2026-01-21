@@ -7,8 +7,8 @@ I am currently attending Wright State University to get a degree in IT and Cyber
 ### Word Game -- Java
 A word game similar to the New York Times "Spelling Bee" where the player guesses words from a scrambled list of letters, recieiving points based on how many words they create.
 
-### Other Project
-Project description
+### Catacomb Crawler
+A roguelike dungeon crawler style game in which the player navigates the hero through a two-dimensional array, fighting monsters until either running out of HP or making it to the exit.
 
 <!--
 **connerwo/connerwo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
